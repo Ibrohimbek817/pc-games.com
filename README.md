@@ -69,7 +69,6 @@
         <div class="character">
             <h3>Franklin Clinton</h3>
             <p>Franklin Clinton is a street gangster who
-        </div>
         <div class="character">
             <h3>Trevor Philips</h3>
             <p>Trevor Philips is a drug dealer and arms smuggler who lives in a trailer in the desert. He is one of the three playable protagonists in GTA 5.</p>
